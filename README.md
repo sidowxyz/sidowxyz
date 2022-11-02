@@ -31,7 +31,7 @@ I am a frontend engineer pursuing a bachelor's degree in information technology,
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
 
 - 🌱 I’m currently learning Software Engineering  
   
@@ -49,7 +49,7 @@ I am a frontend engineer pursuing a bachelor's degree in information technology,
 </div>  
 
 
-</td></tr></table>  
+
 
 <br/>  
 
