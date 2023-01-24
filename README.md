@@ -144,9 +144,9 @@ jobs:
       - uses: actions/checkout@v3
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env: # default use ${{ secrets.SUMMARY_GITHUB_TOKEN }}, you should replace with your personal access token
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ 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 }}
         with:
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: ${{ sidowxyz }}
           # BRANCH_NAME is optional, default to main, branch name to push cards
           BRANCH_NAME: "main"
           # UTC_OFFSET is optional, default to zero
