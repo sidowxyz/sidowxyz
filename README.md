@@ -128,28 +128,4 @@ I am a frontend engineer pursuing a bachelor's degree in information technology,
 
 <br>
   
-  name: GitHub-Profile-Summary-Cards
 
-on:
-  schedule: # execute every 24 hours
-    - cron: "* */24 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: generate-github-profile-summary-cards
-
-    steps:
-      - uses: actions/checkout@v3
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env: # default use ${{ secrets.SUMMARY_GITHUB_TOKEN }}, you should replace with your personal access token
-          GITHUB_TOKEN: ${{ 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 }}
-        with:
-          USERNAME: ${{ sidowxyz }}
-          # BRANCH_NAME is optional, default to main, branch name to push cards
-          BRANCH_NAME: "main"
-          # UTC_OFFSET is optional, default to zero
-          UTC_OFFSET: 8 
-          # EXCLUDE is an optional comma seperated list of languages to exclude, defaults to ""
-          EXCLUDE: ""
