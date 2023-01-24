@@ -45,7 +45,7 @@ I am a frontend engineer pursuing a bachelor's degree in information technology,
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" align="center" style="width: 100%" />
+<img src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" align="center" style="width: 50%" />
 </div>  
 
 
