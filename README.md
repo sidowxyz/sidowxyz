@@ -4,7 +4,13 @@
 
 
 ### Glad to see you here!  
- I'm a junior frontend engineer with a passion for UI/UX design. I'm currently pursuing a Bachelor's degree in Information Technology, and I'm also taking an intensive software engineering course at Alx. I absolutely love working with technology and I'm always eager to learn new things. I'm a hard worker and I'm dedicated to improving my skills every day. I'm excited to continue growing as an engineer and making a positive impact in the tech industry.  
+ I'm a GitHub Campus Expert and a passionate advocate for community building, open-source, and artificial intelligence. Currently, I'm pursuing my Bachelor's degree in Information Technology at Zamzam University and leading several impactful communities:
+
+🚀 Chair and Lead Organizer at PyCon Somalia
+🌍 Chapter Lead at Open Source Community Africa (OSCA)
+💡 Co-Organizer at AISomalia
+
+I thrive on bringing communities together, empowering others through tech, and continually growing my skills and knowledge. Let's connect and build something amazing together!  
   
 ![Profile views counter](https://komarev.com/ghpvc/?username=sidowxyz&&style=flat-square)  
 <br>
